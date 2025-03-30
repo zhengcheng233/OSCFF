@@ -1,0 +1,7 @@
+tolerance 2.5
+add_box_sides 2.5
+output mol_box.pdb 
+structure mol.pdb
+  number 100
+  inside cube 0. 0. 0. 116.02886185078313 
+end structure

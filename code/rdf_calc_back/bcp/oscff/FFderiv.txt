@@ -1,0 +1,225 @@
+ ***** Statistical information of derived bond types:
+
+    1  Type: br-ca  Times of evaluations:     4
+ Avg, min, max of k:       277.48      267.71      287.41 kcal/mol/A^2
+ Avg, min, max of r0:    1.904576    1.899479    1.910233 Angstrom
+
+    2  Type: ca-ca  Times of evaluations:    12
+ Avg, min, max of k:       719.33      653.00      801.38 kcal/mol/A^2
+ Avg, min, max of r0:    1.401699    1.393111    1.418693 Angstrom
+
+    3  Type: ca-c3  Times of evaluations:     1
+ Avg, min, max of k:       458.41      458.41      458.41 kcal/mol/A^2
+ Avg, min, max of r0:    1.508601    1.508601    1.508601 Angstrom
+
+    4  Type: ca-ce  Times of evaluations:     3
+ Avg, min, max of k:       486.11      472.95      508.33 kcal/mol/A^2
+ Avg, min, max of r0:    1.485548    1.478571    1.495720 Angstrom
+
+    5  Type: c3-hc  Times of evaluations:     5
+ Avg, min, max of k:       697.41      637.67      741.49 kcal/mol/A^2
+ Avg, min, max of r0:    1.095921    1.088122    1.105283 Angstrom
+
+    6  Type: c2-ce  Times of evaluations:     2
+ Avg, min, max of k:      1161.89     1143.03     1180.75 kcal/mol/A^2
+ Avg, min, max of r0:    1.341457    1.340455    1.342458 Angstrom
+
+    7  Type: c2-c3  Times of evaluations:     1
+ Avg, min, max of k:       480.13      480.13      480.13 kcal/mol/A^2
+ Avg, min, max of r0:    1.505163    1.505163    1.505163 Angstrom
+
+    8  Type: c2-ha  Times of evaluations:     3
+ Avg, min, max of k:       765.27      760.42      769.19 kcal/mol/A^2
+ Avg, min, max of r0:    1.086616    1.085869    1.087243 Angstrom
+
+    9  Type: ca-ha  Times of evaluations:     4
+ Avg, min, max of k:       760.53      759.02      761.81 kcal/mol/A^2
+ Avg, min, max of r0:    1.086185    1.085535    1.086572 Angstrom
+
+   10  Type: ce-c3  Times of evaluations:     1
+ Avg, min, max of k:       461.91      461.91      461.91 kcal/mol/A^2
+ Avg, min, max of r0:    1.514703    1.514703    1.514703 Angstrom
+ 
+ 
+ ***** Statistical information of derived angle types:
+
+    1  Type: br-ca-ca  Times of evaluations:     8
+ Avg, min, max of k:        94.69       90.50      100.84 kcal/mol/rad^2
+ Avg, min, max of a0:   119.320   117.829   120.843 degree
+
+    2  Type: ca-ca-ca  Times of evaluations:    12
+ Avg, min, max of k:       178.76      150.13      205.86 kcal/mol/rad^2
+ Avg, min, max of a0:   119.998   117.010   121.825 degree
+
+    3  Type: ca-ca-c3  Times of evaluations:     2
+ Avg, min, max of k:       136.85      136.77      136.93 kcal/mol/rad^2
+ Avg, min, max of a0:   121.495   119.955   123.035 degree
+
+    4  Type: ca-ca-ce  Times of evaluations:     6
+ Avg, min, max of k:       162.37      131.18      185.07 kcal/mol/rad^2
+ Avg, min, max of a0:   120.720   118.988   122.092 degree
+
+    5  Type: ca-c3-hc  Times of evaluations:     3
+ Avg, min, max of k:        96.20       85.51      101.78 kcal/mol/rad^2
+ Avg, min, max of a0:   110.756   110.326   111.575 degree
+
+    6  Type: hc-c3-hc  Times of evaluations:     4
+ Avg, min, max of k:        69.82       64.23       73.66 kcal/mol/rad^2
+ Avg, min, max of a0:   107.586   105.908   108.848 degree
+
+    7  Type: ce-c2-c3  Times of evaluations:     1
+ Avg, min, max of k:       125.03      125.03      125.03 kcal/mol/rad^2
+ Avg, min, max of a0:   121.892   121.892   121.892 degree
+
+    8  Type: ce-c2-ha  Times of evaluations:     3
+ Avg, min, max of k:        64.03       61.48       65.34 kcal/mol/rad^2
+ Avg, min, max of a0:   121.195   120.086   122.250 degree
+
+    9  Type: c3-c2-ha  Times of evaluations:     1
+ Avg, min, max of k:        63.17       63.17       63.17 kcal/mol/rad^2
+ Avg, min, max of a0:   117.967   117.967   117.967 degree
+
+   10  Type: ca-ce-c2  Times of evaluations:     3
+ Avg, min, max of k:       124.35      117.87      129.19 kcal/mol/rad^2
+ Avg, min, max of a0:   121.196   119.623   123.132 degree
+
+   11  Type: ca-ce-ca  Times of evaluations:     1
+ Avg, min, max of k:       127.70      127.70      127.70 kcal/mol/rad^2
+ Avg, min, max of a0:   119.536   119.536   119.536 degree
+
+   12  Type: ca-ca-ha  Times of evaluations:     8
+ Avg, min, max of k:        67.02       64.85       67.91 kcal/mol/rad^2
+ Avg, min, max of a0:   119.764   119.072   120.356 degree
+
+   13  Type: ca-ce-c3  Times of evaluations:     1
+ Avg, min, max of k:       142.36      142.36      142.36 kcal/mol/rad^2
+ Avg, min, max of a0:   115.457   115.457   115.457 degree
+
+   14  Type: c2-ce-c3  Times of evaluations:     1
+ Avg, min, max of k:       127.75      127.75      127.75 kcal/mol/rad^2
+ Avg, min, max of a0:   121.399   121.399   121.399 degree
+
+   15  Type: ha-c2-ha  Times of evaluations:     1
+ Avg, min, max of k:        44.22       44.22       44.22 kcal/mol/rad^2
+ Avg, min, max of a0:   116.497   116.497   116.497 degree
+
+   16  Type: c2-c3-ce  Times of evaluations:     1
+ Avg, min, max of k:       233.30      233.30      233.30 kcal/mol/rad^2
+ Avg, min, max of a0:   112.339   112.339   112.339 degree
+
+   17  Type: c2-c3-hc  Times of evaluations:     2
+ Avg, min, max of k:        95.37       79.40      111.34 kcal/mol/rad^2
+ Avg, min, max of a0:   109.253   107.888   110.617 degree
+
+   18  Type: ce-c3-hc  Times of evaluations:     2
+ Avg, min, max of k:       102.57       94.57      110.57 kcal/mol/rad^2
+ Avg, min, max of a0:   109.925   109.556   110.295 degree
+ 
+ 
+ ***** Statistical information of derived dihedral types:
+
+    1  Type: br-ca-ca-br  Times of evaluations:     2
+ Avg, min, max of k:         73.21        72.55        73.87 kcal/mol/rad^2
+ Avg, min, max of d0:     0.338    -0.536     1.212 degree
+
+    2  Type: br-ca-ca-ca  Times of evaluations:     8
+ Avg, min, max of k:         94.50        90.53        98.60 kcal/mol/rad^2
+ Avg, min, max of d0:     0.020  -179.634   179.642 degree
+
+    3  Type: br-ca-ca-ce  Times of evaluations:     2
+ Avg, min, max of k:        105.06       104.24       105.87 kcal/mol/rad^2
+ Avg, min, max of d0:    -0.361    -2.481     1.759 degree
+
+    4  Type: br-ca-ca-c3  Times of evaluations:     2
+ Avg, min, max of k:         97.46        95.68        99.23 kcal/mol/rad^2
+ Avg, min, max of d0:     0.027    -0.248     0.303 degree
+
+    5  Type: ca-ca-ca-ca  Times of evaluations:    12
+ Avg, min, max of k:        116.23        97.66       132.97 kcal/mol/rad^2
+ Avg, min, max of d0:     0.000    -1.190     1.119 degree
+
+    6  Type: ca-ca-ca-c3  Times of evaluations:     2
+ Avg, min, max of k:        128.93       128.31       129.55 kcal/mol/rad^2
+ Avg, min, max of d0:    -0.038  -179.746   179.671 degree
+
+    7  Type: ca-ca-ce-c2  Times of evaluations:     6
+ Avg, min, max of k:        102.19        94.98       107.18 kcal/mol/rad^2
+ Avg, min, max of d0:     6.774  -150.308   167.169 degree
+
+    8  Type: ca-ca-ce-ca  Times of evaluations:     4
+ Avg, min, max of k:        132.66       124.93       147.21 kcal/mol/rad^2
+ Avg, min, max of d0:    40.625   -87.337   168.456 degree
+
+    9  Type: ca-ca-c3-hc  Times of evaluations:     6
+ Avg, min, max of k:         95.03        81.00       103.41 kcal/mol/rad^2
+ Avg, min, max of d0:   -29.235  -179.343   121.986 degree
+
+   10  Type: ca-ca-ca-ce  Times of evaluations:     6
+ Avg, min, max of k:        128.44       105.54       142.59 kcal/mol/rad^2
+ Avg, min, max of d0:    -0.111  -179.299   178.798 degree
+
+   11  Type: ca-ce-c2-c3  Times of evaluations:     2
+ Avg, min, max of k:        144.94       136.10       153.79 kcal/mol/rad^2
+ Avg, min, max of d0:    89.197    -0.270   178.664 degree
+
+   12  Type: ca-ce-c2-ha  Times of evaluations:     4
+ Avg, min, max of k:         60.51        52.06        69.60 kcal/mol/rad^2
+ Avg, min, max of d0:     0.655  -177.547   179.012 degree
+
+   13  Type: c2-c3-ce-ca  Times of evaluations:     1
+ Avg, min, max of k:        212.58       212.58       212.58 kcal/mol/rad^2
+ Avg, min, max of d0:   -38.822   -38.822     0.000 degree
+
+   14  Type: c2-c3-ce-c2  Times of evaluations:     1
+ Avg, min, max of k:        125.34       125.34       125.34 kcal/mol/rad^2
+ Avg, min, max of d0:   139.964   139.964   139.964 degree
+
+   15  Type: ce-c2-c3-ce  Times of evaluations:     1
+ Avg, min, max of k:        125.94       125.94       125.94 kcal/mol/rad^2
+ Avg, min, max of d0:    25.772    25.772    25.772 degree
+
+   16  Type: ce-c2-c3-hc  Times of evaluations:     2
+ Avg, min, max of k:         78.29        72.02        84.57 kcal/mol/rad^2
+ Avg, min, max of d0:    27.207   -95.086   149.500 degree
+
+   17  Type: ce-ca-ca-ha  Times of evaluations:     2
+ Avg, min, max of k:         59.80        55.18        64.41 kcal/mol/rad^2
+ Avg, min, max of d0:     1.838     0.274     3.402 degree
+
+   18  Type: ce-ca-ca-ce  Times of evaluations:     1
+ Avg, min, max of k:        153.98       153.98       153.98 kcal/mol/rad^2
+ Avg, min, max of d0:    -2.375    -2.375     0.000 degree
+
+   19  Type: ca-ca-ca-ha  Times of evaluations:     8
+ Avg, min, max of k:         54.47        51.60        62.17 kcal/mol/rad^2
+ Avg, min, max of d0:   -44.920  -179.947   179.614 degree
+
+   20  Type: ca-ca-ce-c3  Times of evaluations:     2
+ Avg, min, max of k:        146.35       133.64       159.06 kcal/mol/rad^2
+ Avg, min, max of d0:   -62.151  -152.758    28.455 degree
+
+   21  Type: ca-ce-c3-hc  Times of evaluations:     2
+ Avg, min, max of k:        111.86       109.37       114.35 kcal/mol/rad^2
+ Avg, min, max of d0:   -40.829  -162.729    81.071 degree
+
+   22  Type: ce-c3-c2-ha  Times of evaluations:     1
+ Avg, min, max of k:         73.10        73.10        73.10 kcal/mol/rad^2
+ Avg, min, max of d0:  -156.896  -156.896     0.000 degree
+
+   23  Type: c2-ce-c3-hc  Times of evaluations:     2
+ Avg, min, max of k:         81.87        80.53        83.20 kcal/mol/rad^2
+ Avg, min, max of d0:   -42.043  -100.143    16.057 degree
+
+   24  Type: ha-c2-ce-c3  Times of evaluations:     2
+ Avg, min, max of k:         53.09        51.82        54.36 kcal/mol/rad^2
+ Avg, min, max of d0:   -89.301  -178.924     0.321 degree
+
+   25  Type: hc-c3-c2-ha  Times of evaluations:     2
+ Avg, min, max of k:         53.94        50.95        56.93 kcal/mol/rad^2
+ Avg, min, max of d0:    24.539   -33.168    82.247 degree
+
+   26  Type: ha-ca-ca-ha  Times of evaluations:     3
+ Avg, min, max of k:         35.92        34.87        37.18 kcal/mol/rad^2
+ Avg, min, max of d0:    -0.420    -0.890     0.041 degree
+
+ Remind: If you will write the above force constant(s) into bonded_param.dat, the value should be divided by 2
