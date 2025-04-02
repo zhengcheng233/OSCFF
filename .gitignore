@@ -171,6 +171,5 @@ cython_debug/
 .pypirc
 
 # large file 
-*.pt 
 *.lmdb
 *.npz
