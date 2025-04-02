@@ -12,7 +12,8 @@ Organic semiconductors (OSCs) composed of π conjugated molecules have gained si
 
 ## Dependencies
  - [DeePDih](https://github.com/zhengcheng233/DeePDih), check its [Installation Documentation](https://github.com/zhengcheng233/DeePDih).
- - rdkit==2024.09.3, install via `pip install rdkit-pypi==2024.09.3`.  
+ - rdkit==2024.09.3, install via `pip install rdkit-pypi==2024.09.3`.
+ - [e3_layer](https://github.com/zhengcheng233/e3_layer), check its [Installation Documentation](https://github.com/zhengcheng233/e3_layer)
 
 ## Download dataset 
 #### 1. Download dataset `data.tar.gz` from [Test Dataset of OSCFF(force field for organic semiconductors)](https://zenodo.org/records/15107701). 
